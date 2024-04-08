@@ -1,0 +1,5 @@
+﻿  mocapPlayer.cpp
+E:\STUDY\CSCI520\Assignment2\csci520-assignment2-startercode\mocapPlayer-starter\mocapPlayer.cpp(211,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\STUDY\CSCI520\Assignment2\csci520-assignment2-startercode\mocapPlayer-starter\mocapPlayer.cpp(211,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\STUDY\CSCI520\Assignment2\csci520-assignment2-startercode\mocapPlayer-starter\mocapPlayer.cpp(211,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  mocapPlayer.vcxproj -> E:\STUDY\CSCI520\Assignment2\csci520-assignment2-startercode\IDE-starter\VS2017\Debug\mocapPlayer.exe
